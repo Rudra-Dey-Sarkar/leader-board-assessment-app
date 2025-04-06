@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 1,
+        "name": "Allison Mill",
+        "image": "https://randomuser.me/api/portraits/men/4.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 769,
+                "monthly": 4606
+            },
+            "livePoint": 125,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 114,
+                "hourlyLivePoint": 71
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 839,
+                "weeklyCharmPoint": 44348
+            }
+        }
+    },
+    {
+        "id": 2,
+        "name": "Noah Rhodes",
+        "image": "https://randomuser.me/api/portraits/men/76.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 442,
+                "monthly": 620
+            },
+            "livePoint": 15,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 47,
+                "hourlyLivePoint": 111
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 1905,
+                "weeklyCharmPoint": 33118
+            }
+        }
+    },
+    {
+        "id": 3,
+        "name": "Angie Henderson",
+        "image": "https://randomuser.me/api/portraits/men/72.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 213,
+                "monthly": 9028
+            },
+            "livePoint": 214,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 112,
+                "hourlyLivePoint": 229
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 4827,
+                "weeklyCharmPoint": 18231
+            }
+        }
+    },
+    {
+        "id": 4,
+        "name": "Daniel Wagner",
+        "image": "https://randomuser.me/api/portraits/men/98.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 835,
+                "monthly": 2715
+            },
+            "livePoint": 357,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 216,
+                "hourlyLivePoint": 174
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2276,
+                "weeklyCharmPoint": 10189
+            }
+        }
+    },
+    {
+        "id": 5,
+        "name": "Cristian Santos",
+        "image": "https://randomuser.me/api/portraits/men/98.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 354,
+                "monthly": 1774
+            },
+            "livePoint": 47,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 194,
+                "hourlyLivePoint": 49
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2940,
+                "weeklyCharmPoint": 22541
+            }
+        }
+    },
+    {
+        "id": 6,
+        "name": "Connie Lawrence",
+        "image": "https://randomuser.me/api/portraits/women/6.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 757,
+                "monthly": 7627
+            },
+            "livePoint": 274,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 63,
+                "hourlyLivePoint": 498
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 3100,
+                "weeklyCharmPoint": 5164
+            }
+        }
+    },
+    {
+        "id": 7,
+        "name": "Abigail Shaffer",
+        "image": "https://randomuser.me/api/portraits/women/81.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 643,
+                "monthly": 6025
+            },
+            "livePoint": 295,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 98,
+                "hourlyLivePoint": 360
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 569,
+                "weeklyCharmPoint": 3003
+            }
+        }
+    },
+    {
+        "id": 8,
+        "name": "Gina Moore",
+        "image": "https://randomuser.me/api/portraits/men/99.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 306,
+                "monthly": 1407
+            },
+            "livePoint": 437,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 119,
+                "hourlyLivePoint": 443
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 827,
+                "weeklyCharmPoint": 24911
+            }
+        }
+    },
+    {
+        "id": 9,
+        "name": "Gabrielle Davis",
+        "image": "https://randomuser.me/api/portraits/women/59.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 660,
+                "monthly": 6077
+            },
+            "livePoint": 83,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 189,
+                "hourlyLivePoint": 181
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 1716,
+                "weeklyCharmPoint": 43920
+            }
+        }
+    },
+    {
+        "id": 10,
+        "name": "Ryan Munoz",
+        "image": "https://randomuser.me/api/portraits/women/90.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 969,
+                "monthly": 1269
+            },
+            "livePoint": 311,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 325,
+                "hourlyLivePoint": 87
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 4375,
+                "weeklyCharmPoint": 47784
+            }
+        }
+    },
+    {
+        "id": 11,
+        "name": "Monica Herrera",
+        "image": "https://randomuser.me/api/portraits/men/21.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 483,
+                "monthly": 6316
+            },
+            "livePoint": 138,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 473,
+                "hourlyLivePoint": 327
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 4562,
+                "weeklyCharmPoint": 14392
+            }
+        }
+    },
+    {
+        "id": 12,
+        "name": "Jamie Arnold",
+        "image": "https://randomuser.me/api/portraits/women/99.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 804,
+                "monthly": 1016
+            },
+            "livePoint": 117,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 420,
+                "hourlyLivePoint": 16
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2584,
+                "weeklyCharmPoint": 26290
+            }
+        }
+    },
+    {
+        "id": 13,
+        "name": "Lisa Hensley",
+        "image": "https://randomuser.me/api/portraits/women/9.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 226,
+                "monthly": 9392
+            },
+            "livePoint": 448,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 367,
+                "hourlyLivePoint": 161
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 1741,
+                "weeklyCharmPoint": 42954
+            }
+        }
+    },
+    {
+        "id": 14,
+        "name": "Michele Williams",
+        "image": "https://randomuser.me/api/portraits/women/51.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 915,
+                "monthly": 7617
+            },
+            "livePoint": 73,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 135,
+                "hourlyLivePoint": 71
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2020,
+                "weeklyCharmPoint": 48823
+            }
+        }
+    },
+    {
+        "id": 15,
+        "name": "Dylan Miller",
+        "image": "https://randomuser.me/api/portraits/women/96.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 608,
+                "monthly": 7119
+            },
+            "livePoint": 459,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 298,
+                "hourlyLivePoint": 204
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2965,
+                "weeklyCharmPoint": 14373
+            }
+        }
+    },
+    {
+        "id": 16,
+        "name": "Brian Ramirez",
+        "image": "https://randomuser.me/api/portraits/men/66.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 515,
+                "monthly": 1589
+            },
+            "livePoint": 386,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 24,
+                "hourlyLivePoint": 440
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 898,
+                "weeklyCharmPoint": 10016
+            }
+        }
+    },
+    {
+        "id": 17,
+        "name": "Holly Wood",
+        "image": "https://randomuser.me/api/portraits/men/88.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 442,
+                "monthly": 9871
+            },
+            "livePoint": 32,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 197,
+                "hourlyLivePoint": 195
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 4881,
+                "weeklyCharmPoint": 30674
+            }
+        }
+    },
+    {
+        "id": 18,
+        "name": "Derek Zuniga",
+        "image": "https://randomuser.me/api/portraits/women/71.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 891,
+                "monthly": 288
+            },
+            "livePoint": 348,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 369,
+                "hourlyLivePoint": 58
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 4398,
+                "weeklyCharmPoint": 49209
+            }
+        }
+    },
+    {
+        "id": 19,
+        "name": "Lisa Jackson",
+        "image": "https://randomuser.me/api/portraits/women/99.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 666,
+                "monthly": 5673
+            },
+            "livePoint": 57,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 150,
+                "hourlyLivePoint": 222
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 1295,
+                "weeklyCharmPoint": 29735
+            }
+        }
+    },
+    {
+        "id": 20,
+        "name": "Carla Gray",
+        "image": "https://randomuser.me/api/portraits/men/93.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 906,
+                "monthly": 4415
+            },
+            "livePoint": 497,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 256,
+                "hourlyLivePoint": 390
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 1463,
+                "weeklyCharmPoint": 33271
+            }
+        }
+    },
+    {
+        "id": 21,
+        "name": "Margaret Hawkins DDS",
+        "image": "https://randomuser.me/api/portraits/men/81.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 315,
+                "monthly": 8417
+            },
+            "livePoint": 311,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 101,
+                "hourlyLivePoint": 78
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 3063,
+                "weeklyCharmPoint": 49971
+            }
+        }
+    },
+    {
+        "id": 22,
+        "name": "Patty Perez",
+        "image": "https://randomuser.me/api/portraits/men/70.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 986,
+                "monthly": 8789
+            },
+            "livePoint": 470,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 0,
+                "hourlyLivePoint": 306
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2655,
+                "weeklyCharmPoint": 32021
+            }
+        }
+    },
+    {
+        "id": 23,
+        "name": "Ethan Adams",
+        "image": "https://randomuser.me/api/portraits/men/15.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 961,
+                "monthly": 6047
+            },
+            "livePoint": 449,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 425,
+                "hourlyLivePoint": 413
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2519,
+                "weeklyCharmPoint": 15692
+            }
+        }
+    },
+    {
+        "id": 24,
+        "name": "Tommy Walter",
+        "image": "https://randomuser.me/api/portraits/men/31.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 909,
+                "monthly": 9395
+            },
+            "livePoint": 484,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 40,
+                "hourlyLivePoint": 43
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 3981,
+                "weeklyCharmPoint": 4535
+            }
+        }
+    },
+    {
+        "id": 25,
+        "name": "Matthew Foster",
+        "image": "https://randomuser.me/api/portraits/men/17.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 685,
+                "monthly": 7887
+            },
+            "livePoint": 484,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 281,
+                "hourlyLivePoint": 84
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2171,
+                "weeklyCharmPoint": 34581
+            }
+        }
+    },
+    {
+        "id": 26,
+        "name": "Judy Baker",
+        "image": "https://randomuser.me/api/portraits/women/28.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 961,
+                "monthly": 8935
+            },
+            "livePoint": 386,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 373,
+                "hourlyLivePoint": 353
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 1647,
+                "weeklyCharmPoint": 46723
+            }
+        }
+    },
+    {
+        "id": 27,
+        "name": "Justin Baker",
+        "image": "https://randomuser.me/api/portraits/women/52.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 697,
+                "monthly": 6218
+            },
+            "livePoint": 224,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 460,
+                "hourlyLivePoint": 264
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 3698,
+                "weeklyCharmPoint": 7930
+            }
+        }
+    },
+    {
+        "id": 28,
+        "name": "Stephanie Ross",
+        "image": "https://randomuser.me/api/portraits/men/29.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 75,
+                "monthly": 5639
+            },
+            "livePoint": 10,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 301,
+                "hourlyLivePoint": 283
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 1885,
+                "weeklyCharmPoint": 38564
+            }
+        }
+    },
+    {
+        "id": 29,
+        "name": "Zachary Hicks",
+        "image": "https://randomuser.me/api/portraits/men/1.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 82,
+                "monthly": 1064
+            },
+            "livePoint": 117,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 34,
+                "hourlyLivePoint": 463
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 257,
+                "weeklyCharmPoint": 21654
+            }
+        }
+    },
+    {
+        "id": 30,
+        "name": "Anthony Rodriguez",
+        "image": "https://randomuser.me/api/portraits/men/66.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 253,
+                "monthly": 4662
+            },
+            "livePoint": 342,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 248,
+                "hourlyLivePoint": 109
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 4417,
+                "weeklyCharmPoint": 8671
+            }
+        }
+    },
+    {
+        "id": 31,
+        "name": "Rebecca Henderson",
+        "image": "https://randomuser.me/api/portraits/women/32.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 813,
+                "monthly": 7849
+            },
+            "livePoint": 413,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 208,
+                "hourlyLivePoint": 97
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 772,
+                "weeklyCharmPoint": 6352
+            }
+        }
+    },
+    {
+        "id": 32,
+        "name": "James Ferrell",
+        "image": "https://randomuser.me/api/portraits/women/46.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 443,
+                "monthly": 6835
+            },
+            "livePoint": 239,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 442,
+                "hourlyLivePoint": 373
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 443,
+                "weeklyCharmPoint": 44129
+            }
+        }
+    },
+    {
+        "id": 33,
+        "name": "Tricia Valencia",
+        "image": "https://randomuser.me/api/portraits/men/8.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 422,
+                "monthly": 5659
+            },
+            "livePoint": 409,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 441,
+                "hourlyLivePoint": 55
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2036,
+                "weeklyCharmPoint": 12556
+            }
+        }
+    },
+    {
+        "id": 34,
+        "name": "Nathan Maldonado",
+        "image": "https://randomuser.me/api/portraits/men/69.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 469,
+                "monthly": 2396
+            },
+            "livePoint": 216,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 93,
+                "hourlyLivePoint": 142
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 3789,
+                "weeklyCharmPoint": 16371
+            }
+        }
+    },
+    {
+        "id": 35,
+        "name": "Debra Davidson",
+        "image": "https://randomuser.me/api/portraits/men/57.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 837,
+                "monthly": 9116
+            },
+            "livePoint": 50,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 25,
+                "hourlyLivePoint": 333
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 4428,
+                "weeklyCharmPoint": 967
+            }
+        }
+    },
+    {
+        "id": 36,
+        "name": "Jeffrey Chavez",
+        "image": "https://randomuser.me/api/portraits/men/97.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 879,
+                "monthly": 3972
+            },
+            "livePoint": 85,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 208,
+                "hourlyLivePoint": 248
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 3943,
+                "weeklyCharmPoint": 14008
+            }
+        }
+    },
+    {
+        "id": 37,
+        "name": "Sherri Baker",
+        "image": "https://randomuser.me/api/portraits/women/8.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 178,
+                "monthly": 6309
+            },
+            "livePoint": 1,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 199,
+                "hourlyLivePoint": 135
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 3727,
+                "weeklyCharmPoint": 18694
+            }
+        }
+    },
+    {
+        "id": 38,
+        "name": "Cassandra Gaines",
+        "image": "https://randomuser.me/api/portraits/women/90.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 990,
+                "monthly": 9205
+            },
+            "livePoint": 338,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 367,
+                "hourlyLivePoint": 249
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 1268,
+                "weeklyCharmPoint": 12445
+            }
+        }
+    },
+    {
+        "id": 39,
+        "name": "Elizabeth Fowler",
+        "image": "https://randomuser.me/api/portraits/women/28.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 69,
+                "monthly": 9589
+            },
+            "livePoint": 376,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 277,
+                "hourlyLivePoint": 31
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2569,
+                "weeklyCharmPoint": 3746
+            }
+        }
+    },
+    {
+        "id": 40,
+        "name": "Brittany Farmer",
+        "image": "https://randomuser.me/api/portraits/men/75.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 498,
+                "monthly": 8338
+            },
+            "livePoint": 470,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 436,
+                "hourlyLivePoint": 271
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 1289,
+                "weeklyCharmPoint": 3727
+            }
+        }
+    },
+    {
+        "id": 41,
+        "name": "Paula Moreno",
+        "image": "https://randomuser.me/api/portraits/men/24.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 80,
+                "monthly": 9849
+            },
+            "livePoint": 34,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 345,
+                "hourlyLivePoint": 441
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 1926,
+                "weeklyCharmPoint": 26461
+            }
+        }
+    },
+    {
+        "id": 42,
+        "name": "Fred Smith",
+        "image": "https://randomuser.me/api/portraits/men/73.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 262,
+                "monthly": 9585
+            },
+            "livePoint": 304,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 20,
+                "hourlyLivePoint": 317
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 671,
+                "weeklyCharmPoint": 27474
+            }
+        }
+    },
+    {
+        "id": 43,
+        "name": "Sherry Decker",
+        "image": "https://randomuser.me/api/portraits/women/34.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 219,
+                "monthly": 5247
+            },
+            "livePoint": 122,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 135,
+                "hourlyLivePoint": 202
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 1072,
+                "weeklyCharmPoint": 44019
+            }
+        }
+    },
+    {
+        "id": 44,
+        "name": "Anthony Humphrey",
+        "image": "https://randomuser.me/api/portraits/women/59.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 333,
+                "monthly": 1288
+            },
+            "livePoint": 4,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 234,
+                "hourlyLivePoint": 318
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 4612,
+                "weeklyCharmPoint": 6552
+            }
+        }
+    },
+    {
+        "id": 45,
+        "name": "Angelica Tucker",
+        "image": "https://randomuser.me/api/portraits/men/69.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 228,
+                "monthly": 8388
+            },
+            "livePoint": 135,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 67,
+                "hourlyLivePoint": 477
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2859,
+                "weeklyCharmPoint": 4508
+            }
+        }
+    },
+    {
+        "id": 46,
+        "name": "Philip Cannon",
+        "image": "https://randomuser.me/api/portraits/men/48.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 301,
+                "monthly": 2684
+            },
+            "livePoint": 224,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 426,
+                "hourlyLivePoint": 278
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2478,
+                "weeklyCharmPoint": 40086
+            }
+        }
+    },
+    {
+        "id": 47,
+        "name": "John Pierce",
+        "image": "https://randomuser.me/api/portraits/men/86.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 846,
+                "monthly": 9186
+            },
+            "livePoint": 153,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 477,
+                "hourlyLivePoint": 339
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 848,
+                "weeklyCharmPoint": 8800
+            }
+        }
+    },
+    {
+        "id": 48,
+        "name": "Shane Henderson",
+        "image": "https://randomuser.me/api/portraits/women/15.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 921,
+                "monthly": 1853
+            },
+            "livePoint": 380,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 283,
+                "hourlyLivePoint": 79
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2231,
+                "weeklyCharmPoint": 18465
+            }
+        }
+    },
+    {
+        "id": 49,
+        "name": "Joshua Blair",
+        "image": "https://randomuser.me/api/portraits/men/92.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 361,
+                "monthly": 3435
+            },
+            "livePoint": 351,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 324,
+                "hourlyLivePoint": 436
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2162,
+                "weeklyCharmPoint": 33122
+            }
+        }
+    },
+    {
+        "id": 50,
+        "name": "Eric Carney",
+        "image": "https://randomuser.me/api/portraits/women/33.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 937,
+                "monthly": 932
+            },
+            "livePoint": 47,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 324,
+                "hourlyLivePoint": 216
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2266,
+                "weeklyCharmPoint": 2889
+            }
+        }
+    },
+    {
+        "id": 51,
+        "name": "Jessica Holmes",
+        "image": "https://randomuser.me/api/portraits/men/43.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 799,
+                "monthly": 2243
+            },
+            "livePoint": 326,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 134,
+                "hourlyLivePoint": 82
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 3619,
+                "weeklyCharmPoint": 36154
+            }
+        }
+    },
+    {
+        "id": 52,
+        "name": "Danny Morgan",
+        "image": "https://randomuser.me/api/portraits/women/72.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 19,
+                "monthly": 1932
+            },
+            "livePoint": 38,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 483,
+                "hourlyLivePoint": 452
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 1221,
+                "weeklyCharmPoint": 35755
+            }
+        }
+    },
+    {
+        "id": 53,
+        "name": "Crystal Robinson",
+        "image": "https://randomuser.me/api/portraits/men/48.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 606,
+                "monthly": 9152
+            },
+            "livePoint": 75,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 220,
+                "hourlyLivePoint": 65
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 342,
+                "weeklyCharmPoint": 20202
+            }
+        }
+    },
+    {
+        "id": 54,
+        "name": "Mark Perez",
+        "image": "https://randomuser.me/api/portraits/women/6.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 930,
+                "monthly": 5962
+            },
+            "livePoint": 107,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 349,
+                "hourlyLivePoint": 127
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 842,
+                "weeklyCharmPoint": 23178
+            }
+        }
+    },
+    {
+        "id": 55,
+        "name": "Shannon Jones",
+        "image": "https://randomuser.me/api/portraits/women/80.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 777,
+                "monthly": 2632
+            },
+            "livePoint": 473,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 476,
+                "hourlyLivePoint": 121
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 1331,
+                "weeklyCharmPoint": 11603
+            }
+        }
+    },
+    {
+        "id": 56,
+        "name": "Michael Lewis",
+        "image": "https://randomuser.me/api/portraits/women/4.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 193,
+                "monthly": 5542
+            },
+            "livePoint": 400,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 476,
+                "hourlyLivePoint": 210
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2032,
+                "weeklyCharmPoint": 17485
+            }
+        }
+    },
+    {
+        "id": 57,
+        "name": "Timothy Duncan",
+        "image": "https://randomuser.me/api/portraits/men/90.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 120,
+                "monthly": 6367
+            },
+            "livePoint": 446,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 19,
+                "hourlyLivePoint": 439
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 3855,
+                "weeklyCharmPoint": 14577
+            }
+        }
+    },
+    {
+        "id": 58,
+        "name": "Richard Aguirre",
+        "image": "https://randomuser.me/api/portraits/men/59.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 368,
+                "monthly": 5100
+            },
+            "livePoint": 420,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 407,
+                "hourlyLivePoint": 446
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 1864,
+                "weeklyCharmPoint": 14609
+            }
+        }
+    },
+    {
+        "id": 59,
+        "name": "Brent Jordan",
+        "image": "https://randomuser.me/api/portraits/men/85.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 207,
+                "monthly": 6628
+            },
+            "livePoint": 168,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 142,
+                "hourlyLivePoint": 442
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 568,
+                "weeklyCharmPoint": 18292
+            }
+        }
+    },
+    {
+        "id": 60,
+        "name": "John Daniel",
+        "image": "https://randomuser.me/api/portraits/women/83.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 531,
+                "monthly": 6648
+            },
+            "livePoint": 347,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 431,
+                "hourlyLivePoint": 274
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2712,
+                "weeklyCharmPoint": 1808
+            }
+        }
+    },
+    {
+        "id": 61,
+        "name": "Victoria Garcia",
+        "image": "https://randomuser.me/api/portraits/men/34.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 192,
+                "monthly": 9612
+            },
+            "livePoint": 492,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 135,
+                "hourlyLivePoint": 19
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 888,
+                "weeklyCharmPoint": 39096
+            }
+        }
+    },
+    {
+        "id": 62,
+        "name": "Gerald Hensley",
+        "image": "https://randomuser.me/api/portraits/women/45.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 756,
+                "monthly": 5239
+            },
+            "livePoint": 223,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 310,
+                "hourlyLivePoint": 261
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 947,
+                "weeklyCharmPoint": 25244
+            }
+        }
+    },
+    {
+        "id": 63,
+        "name": "Connor West",
+        "image": "https://randomuser.me/api/portraits/men/33.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 55,
+                "monthly": 7244
+            },
+            "livePoint": 0,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 266,
+                "hourlyLivePoint": 473
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 4410,
+                "weeklyCharmPoint": 45013
+            }
+        }
+    },
+    {
+        "id": 64,
+        "name": "Donald Wright",
+        "image": "https://randomuser.me/api/portraits/men/47.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 451,
+                "monthly": 1246
+            },
+            "livePoint": 485,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 340,
+                "hourlyLivePoint": 471
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2704,
+                "weeklyCharmPoint": 40839
+            }
+        }
+    },
+    {
+        "id": 65,
+        "name": "Jessica Callahan",
+        "image": "https://randomuser.me/api/portraits/women/85.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 878,
+                "monthly": 2141
+            },
+            "livePoint": 368,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 460,
+                "hourlyLivePoint": 153
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 4154,
+                "weeklyCharmPoint": 20269
+            }
+        }
+    },
+    {
+        "id": 66,
+        "name": "Amber Kidd",
+        "image": "https://randomuser.me/api/portraits/women/42.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 422,
+                "monthly": 4944
+            },
+            "livePoint": 283,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 65,
+                "hourlyLivePoint": 98
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 3444,
+                "weeklyCharmPoint": 43576
+            }
+        }
+    },
+    {
+        "id": 67,
+        "name": "Tracy House",
+        "image": "https://randomuser.me/api/portraits/women/87.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 776,
+                "monthly": 2951
+            },
+            "livePoint": 315,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 291,
+                "hourlyLivePoint": 154
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 3326,
+                "weeklyCharmPoint": 35909
+            }
+        }
+    },
+    {
+        "id": 68,
+        "name": "Carol Tucker",
+        "image": "https://randomuser.me/api/portraits/men/39.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 303,
+                "monthly": 3543
+            },
+            "livePoint": 220,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 402,
+                "hourlyLivePoint": 296
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 4969,
+                "weeklyCharmPoint": 42906
+            }
+        }
+    },
+    {
+        "id": 69,
+        "name": "James Brown",
+        "image": "https://randomuser.me/api/portraits/women/60.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 462,
+                "monthly": 7344
+            },
+            "livePoint": 345,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 109,
+                "hourlyLivePoint": 261
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 3876,
+                "weeklyCharmPoint": 48231
+            }
+        }
+    },
+    {
+        "id": 70,
+        "name": "William Baker",
+        "image": "https://randomuser.me/api/portraits/men/85.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 96,
+                "monthly": 4749
+            },
+            "livePoint": 263,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 339,
+                "hourlyLivePoint": 324
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2745,
+                "weeklyCharmPoint": 6120
+            }
+        }
+    },
+    {
+        "id": 71,
+        "name": "Jordan Henderson",
+        "image": "https://randomuser.me/api/portraits/men/87.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 327,
+                "monthly": 3780
+            },
+            "livePoint": 412,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 101,
+                "hourlyLivePoint": 75
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 200,
+                "weeklyCharmPoint": 3028
+            }
+        }
+    },
+    {
+        "id": 72,
+        "name": "Whitney Peters",
+        "image": "https://randomuser.me/api/portraits/men/61.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 635,
+                "monthly": 1293
+            },
+            "livePoint": 233,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 212,
+                "hourlyLivePoint": 453
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 4715,
+                "weeklyCharmPoint": 12742
+            }
+        }
+    },
+    {
+        "id": 73,
+        "name": "Brittney Phillips",
+        "image": "https://randomuser.me/api/portraits/women/64.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 419,
+                "monthly": 4097
+            },
+            "livePoint": 75,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 335,
+                "hourlyLivePoint": 352
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 45,
+                "weeklyCharmPoint": 49215
+            }
+        }
+    },
+    {
+        "id": 74,
+        "name": "Lauren Daniels",
+        "image": "https://randomuser.me/api/portraits/men/55.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 234,
+                "monthly": 2981
+            },
+            "livePoint": 411,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 490,
+                "hourlyLivePoint": 356
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 4243,
+                "weeklyCharmPoint": 30444
+            }
+        }
+    },
+    {
+        "id": 75,
+        "name": "Amy Silva",
+        "image": "https://randomuser.me/api/portraits/men/72.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 265,
+                "monthly": 2088
+            },
+            "livePoint": 233,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 68,
+                "hourlyLivePoint": 410
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 3806,
+                "weeklyCharmPoint": 43750
+            }
+        }
+    },
+    {
+        "id": 76,
+        "name": "Sarah Moore",
+        "image": "https://randomuser.me/api/portraits/women/97.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 922,
+                "monthly": 7351
+            },
+            "livePoint": 313,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 417,
+                "hourlyLivePoint": 368
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 4135,
+                "weeklyCharmPoint": 27966
+            }
+        }
+    },
+    {
+        "id": 77,
+        "name": "Angela Lopez",
+        "image": "https://randomuser.me/api/portraits/women/21.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 771,
+                "monthly": 7877
+            },
+            "livePoint": 230,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 132,
+                "hourlyLivePoint": 384
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2025,
+                "weeklyCharmPoint": 41789
+            }
+        }
+    },
+    {
+        "id": 78,
+        "name": "Megan Young",
+        "image": "https://randomuser.me/api/portraits/women/99.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 806,
+                "monthly": 8640
+            },
+            "livePoint": 248,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 320,
+                "hourlyLivePoint": 122
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2249,
+                "weeklyCharmPoint": 28827
+            }
+        }
+    },
+    {
+        "id": 79,
+        "name": "Steve Sanchez",
+        "image": "https://randomuser.me/api/portraits/men/92.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 302,
+                "monthly": 3941
+            },
+            "livePoint": 139,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 171,
+                "hourlyLivePoint": 163
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 4424,
+                "weeklyCharmPoint": 5280
+            }
+        }
+    },
+    {
+        "id": 80,
+        "name": "Lisa Barnes",
+        "image": "https://randomuser.me/api/portraits/men/20.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 246,
+                "monthly": 6375
+            },
+            "livePoint": 355,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 78,
+                "hourlyLivePoint": 361
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 1752,
+                "weeklyCharmPoint": 4209
+            }
+        }
+    },
+    {
+        "id": 81,
+        "name": "Kelly Donovan",
+        "image": "https://randomuser.me/api/portraits/women/53.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 348,
+                "monthly": 8990
+            },
+            "livePoint": 238,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 212,
+                "hourlyLivePoint": 31
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 1694,
+                "weeklyCharmPoint": 27534
+            }
+        }
+    },
+    {
+        "id": 82,
+        "name": "Mike Allen",
+        "image": "https://randomuser.me/api/portraits/women/99.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 608,
+                "monthly": 420
+            },
+            "livePoint": 438,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 450,
+                "hourlyLivePoint": 391
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 4716,
+                "weeklyCharmPoint": 24928
+            }
+        }
+    },
+    {
+        "id": 83,
+        "name": "Michael Evans",
+        "image": "https://randomuser.me/api/portraits/women/1.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 975,
+                "monthly": 5863
+            },
+            "livePoint": 152,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 385,
+                "hourlyLivePoint": 199
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 3432,
+                "weeklyCharmPoint": 35272
+            }
+        }
+    },
+    {
+        "id": 84,
+        "name": "Paul Jones",
+        "image": "https://randomuser.me/api/portraits/men/63.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 234,
+                "monthly": 4571
+            },
+            "livePoint": 223,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 248,
+                "hourlyLivePoint": 14
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 3185,
+                "weeklyCharmPoint": 22028
+            }
+        }
+    },
+    {
+        "id": 85,
+        "name": "Zachary Ferrell",
+        "image": "https://randomuser.me/api/portraits/women/93.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 179,
+                "monthly": 7757
+            },
+            "livePoint": 470,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 65,
+                "hourlyLivePoint": 318
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 4375,
+                "weeklyCharmPoint": 1767
+            }
+        }
+    },
+    {
+        "id": 86,
+        "name": "Daniel Baker",
+        "image": "https://randomuser.me/api/portraits/women/76.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 587,
+                "monthly": 544
+            },
+            "livePoint": 42,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 329,
+                "hourlyLivePoint": 219
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 1111,
+                "weeklyCharmPoint": 30257
+            }
+        }
+    },
+    {
+        "id": 87,
+        "name": "Shirley Suarez",
+        "image": "https://randomuser.me/api/portraits/men/7.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 276,
+                "monthly": 6311
+            },
+            "livePoint": 167,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 108,
+                "hourlyLivePoint": 232
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2677,
+                "weeklyCharmPoint": 22118
+            }
+        }
+    },
+    {
+        "id": 88,
+        "name": "Christopher Bass",
+        "image": "https://randomuser.me/api/portraits/women/36.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 780,
+                "monthly": 7006
+            },
+            "livePoint": 129,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 427,
+                "hourlyLivePoint": 41
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 3852,
+                "weeklyCharmPoint": 1270
+            }
+        }
+    },
+    {
+        "id": 89,
+        "name": "Lisa Archer",
+        "image": "https://randomuser.me/api/portraits/men/45.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 239,
+                "monthly": 1224
+            },
+            "livePoint": 399,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 490,
+                "hourlyLivePoint": 333
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 329,
+                "weeklyCharmPoint": 49429
+            }
+        }
+    },
+    {
+        "id": 90,
+        "name": "Aimee Montoya",
+        "image": "https://randomuser.me/api/portraits/men/32.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 214,
+                "monthly": 433
+            },
+            "livePoint": 318,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 78,
+                "hourlyLivePoint": 122
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 1034,
+                "weeklyCharmPoint": 31035
+            }
+        }
+    },
+    {
+        "id": 91,
+        "name": "Matthew Mcmillan",
+        "image": "https://randomuser.me/api/portraits/men/73.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 980,
+                "monthly": 3671
+            },
+            "livePoint": 238,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 358,
+                "hourlyLivePoint": 131
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 3021,
+                "weeklyCharmPoint": 10996
+            }
+        }
+    },
+    {
+        "id": 92,
+        "name": "Brian Rodriguez",
+        "image": "https://randomuser.me/api/portraits/men/21.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 997,
+                "monthly": 5196
+            },
+            "livePoint": 55,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 296,
+                "hourlyLivePoint": 13
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2555,
+                "weeklyCharmPoint": 37735
+            }
+        }
+    },
+    {
+        "id": 93,
+        "name": "Denise Jacobs",
+        "image": "https://randomuser.me/api/portraits/women/51.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 974,
+                "monthly": 3349
+            },
+            "livePoint": 38,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 303,
+                "hourlyLivePoint": 353
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 1989,
+                "weeklyCharmPoint": 6678
+            }
+        }
+    },
+    {
+        "id": 94,
+        "name": "Christina Walters",
+        "image": "https://randomuser.me/api/portraits/women/88.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 624,
+                "monthly": 2083
+            },
+            "livePoint": 407,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 289,
+                "hourlyLivePoint": 400
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 336,
+                "weeklyCharmPoint": 22754
+            }
+        }
+    },
+    {
+        "id": 95,
+        "name": "John Whitehead",
+        "image": "https://randomuser.me/api/portraits/women/85.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 389,
+                "monthly": 1229
+            },
+            "livePoint": 259,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 331,
+                "hourlyLivePoint": 174
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 103,
+                "weeklyCharmPoint": 27528
+            }
+        }
+    },
+    {
+        "id": 96,
+        "name": "Anna Henderson",
+        "image": "https://randomuser.me/api/portraits/women/14.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 453,
+                "monthly": 6034
+            },
+            "livePoint": 325,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 456,
+                "hourlyLivePoint": 424
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 3766,
+                "weeklyCharmPoint": 46354
+            }
+        }
+    },
+    {
+        "id": 97,
+        "name": "Aaron Wise",
+        "image": "https://randomuser.me/api/portraits/men/56.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 190,
+                "monthly": 8648
+            },
+            "livePoint": 494,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 333,
+                "hourlyLivePoint": 138
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 4408,
+                "weeklyCharmPoint": 31686
+            }
+        }
+    },
+    {
+        "id": 98,
+        "name": "Deborah Figueroa",
+        "image": "https://randomuser.me/api/portraits/women/56.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 855,
+                "monthly": 9807
+            },
+            "livePoint": 137,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 165,
+                "hourlyLivePoint": 436
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2011,
+                "weeklyCharmPoint": 5679
+            }
+        }
+    },
+    {
+        "id": 99,
+        "name": "Jessica Smith",
+        "image": "https://randomuser.me/api/portraits/women/58.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 259,
+                "monthly": 7713
+            },
+            "livePoint": 291,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 312,
+                "hourlyLivePoint": 342
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 3104,
+                "weeklyCharmPoint": 22046
+            }
+        }
+    },
+    {
+        "id": 100,
+        "name": "Stephen Mckee",
+        "image": "https://randomuser.me/api/portraits/men/64.jpg",
+        "points": {
+            "wealthPoint": {
+                "daily": 881,
+                "monthly": 5425
+            },
+            "livePoint": 93,
+            "hourlyPoint": {
+                "hourlyPartyPoint": 249,
+                "hourlyLivePoint": 108
+            },
+            "partyPoint": {
+                "weeklyContributionPoint": 2906,
+                "weeklyCharmPoint": 16931
+            }
+        }
+    }
+]
