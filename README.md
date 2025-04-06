@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## Links
-PopX App Review Video :- https://www.loom.com/share/25a297046ebb4de4ac869211bd6c614f
+Leader Board Assessment Application Review Video :- https://www.loom.com/share/cce0fa788cf541c4b6dcc70067567635
 
 Deployed Application Link :- https://leader-board-assessment-app.vercel.app/
 
