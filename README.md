@@ -2,6 +2,25 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Links
+PopX App Review Video :- https://www.loom.com/share/25a297046ebb4de4ac869211bd6c614f
+
+Deployed Application Link :- https://leader-board-assessment-app.vercel.app/
+
+Github Link :- https://github.com/Rudra-Dey-Sarkar/leader-board-assessment-app
+
+
+## Contacts
+In case you have any doubts you can contact me using below details :-
+
+Email Id :- rudradeysarkar5@gmail.com
+
+Contact No. :- +917811914148
+
+Whatsapp No. :- +919475204453
+
+LinkedIn :- https://www.linkedin.com/in/rudra-dey-sarkar-5625331ba/
+
 ## Available Scripts
 
 In the project directory, you can run:
